@@ -1,5 +1,5 @@
 {
-  "data":"api working fine",
+  "data":{"message":"api working fine"},
   "post":[],
   "user":[]
 }
